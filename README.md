@@ -5,8 +5,8 @@
 - Previously, I worked as a research technician in Puerto Rico, working in soil and aquatic biogeochemistry
 
 ## 📖 Education
-2020-current: PhD, Biological Sciences, Virginia Tech
-2011-2016: BSc, Environmental Sciences, University of Puerto Rico, Río Piedras
+- 2020-current: PhD, Biological Sciences, Virginia Tech
+- 2011-2016: BSc, Environmental Sciences, University of Puerto Rico, Río Piedras
 <!--
 **carlalopezll/carlalopezll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
